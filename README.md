@@ -1,4 +1,4 @@
-## Projeto Spring React
+## Projeto Spring React - DS Vendas
 
 Projeto da DevSuperior, orientado por Nelio Alves.
 Consiste no desenvolvimento de um aplicativo web para análise de desempenho de vendas, utilizando Spring Boot e Java no back end, ReactJS e TypeScript no front end.
