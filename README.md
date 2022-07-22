@@ -12,3 +12,5 @@ Na integração de back e front end, as seguintes ferramentas foram usadas:
 - NPM
 - VS Code
 - Git
+
+Link: https://dsvendas-palomafontesoli.netlify.app
